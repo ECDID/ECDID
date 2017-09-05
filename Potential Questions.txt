@@ -1,18 +1,6 @@
-What does ECDID stand for?
-What is an RFID reader programmer?
-What is a REXCON system?
-What are the details on the "Multiple Concrete Batch Systems"?
-    - What code needs to be reviewed?
-What is the relationship between ACME and REXCON?
-Who will be using the mobile application?
-    - The desktop application?
-What is the overall goal of developing this application?
-Is there any existing software that we will integrate?
-Are there any preferences for programming languages or databases?
-Are we doing a website, desktop application, or both?
-What kind of scale are we talking? (number of people looking up things a day)
-Who will be using the program/tool?
-Do we need a mobile app?
-    If so what platform (ios,andorid)
-How long does data need to be stored in the database?
 Is there an existing database or is a new one needed?
+Is there any existing software that we will integrate?
+What is the scale of this project?
+ - How many end-user interactions per day?
+What code needs to be reviewed from “Multiple Concrete Batch Systems”?
+Are there any preferences for Programming or Database Languages?
