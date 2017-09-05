@@ -4,22 +4,16 @@ Senior Design Project 09 2017-18
 Meet Time: Mondays, 4:30-8pm, Senior CS Lab
 
 CPSC09 ECDID
-Description
-Concrete has been delivered to millions of locations using paper tickets. Once the concrete is
-delivered, there is no way to determine the exact location of the concrete that was delivered. For
-quality control purposes, it is important to know the location of the tested material, particularly if
-the material fails long term testing such as strength in structural members of pavements. The goal
-of the project is to develop a cloud based data system that could become the complete quality
-control record for the concrete project.
+
 
 Concrete has been delivered to millions of locations using paper tickets. Once the concrete is
 delivered, there is no way to determine the exact location of the concrete that was delivered. For
 quality control purposes, it is important to know the location of the tested material, particularly if
 the material fails long term testing such as strength in structural members of pavements.
-The goal of the project can be broken down into several aspects. 1) To locate or develop an
-RFID or other technology device that could be programmed and batched in to the concrete that
-can be found at a later date if the location of the concrete batch is needed. (Electrical Engineering
-Students)
+The goal of the project can be broken down into several aspects. 
+
+1) To locate or develop an RFID or other technology device that could be programmed and batched in to the concrete that
+can be found at a later date if the location of the concrete batch is needed. (Electrical Engineering Students)
 
 2) To develop the device that would program multiple ECDID chips and dispense them into the
 concrete mixer or delivery unit while simultaneousl upload the information to a cloud based
