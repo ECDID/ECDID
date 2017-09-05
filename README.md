@@ -48,11 +48,17 @@ quality control individuals should also be performed under a non-disclosure agre
 determine all the inforamtion that they would like to see in the ECDID.
 
 # Deliverables:
+
 • Working Prototype
+
 • User Manual
+
 • Proof of Concept
+
 • Research
+
 • Website Development
+
 • App
 
 CPM Schedule should be developed for the project along with a work breakdown structure that
