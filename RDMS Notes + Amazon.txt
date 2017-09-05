@@ -1,3 +1,4 @@
+As part of this research, I completed tutorials for Amazaon RDBMS, and was able to set up a server by which to conduct SQL operations.
 
 # Cloud Based Databases
 - A Database that runs on a cloud computing platform
@@ -18,7 +19,7 @@ I was able to easily set up a database hosted by Amazon, which seamlessly connec
 Many of the further tutorials are locked behind pay-walls as modules for a tutorial site QuikLabs. Once 
 connected, it acts much as a regular SQL database, with the capacity to write Insert, Select, etc. statements. 
 
-MySQL vs MariaDB
+# MySQL vs MariaDB
 - MariaDB is an offshoot of MySQL, run by former devs of SQL. 
 - Created to avoid acquisition by Oracle.
 - MariaDB is seemingly recognized by the database community as the ‘better’ of the two.
