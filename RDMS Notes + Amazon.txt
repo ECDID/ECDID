@@ -1,0 +1,23 @@
+
+Cloud Based Databases
+- A Database that runs on a cloud computing platform
+	- Underlying software is transparent to the user.
+	- High availability, high scalability
+	- Two Primary Methods storing your Database in the Cloud
+		- Virtual Machine Image
+			- Allows users to ‘rent’ virtual machine instances.
+		- Database-as-a-Service
+			- Enterprise-level companies take the work off of the consumer, all installation an maintenance is taken care of.
+			- Amazon Relational Database Service, Microsoft Azure SQL.
+
+Amazon Relational Database Service
+- Offers database hosting connected to a variety of database types (mySQL, etc.)
+- Costs a lot, $12.00/mo for the most basic of database hosting services up to $15,000/mo for the ‘enterprise edition’.
+
+I was able to easily set up a database hosted by Amazon, which seamlessly connects to a mySQL application. Many of the further tutorials are locked behind pay-walls as modules for a tutorial site QuikLabs. Once connected, it acts much as a regular SQL database, with the capacity to write Insert, Select, etc. statements. 
+
+MySQL vs MariaDB
+- MariaDB is an offshoot of MySQL, run by former devs of SQL. 
+- Created to avoid acquisition by Oracle.
+- MariaDB is seemingly recognized by the database community as the ‘better’ of the two.
+- More Transparent, better performance.
