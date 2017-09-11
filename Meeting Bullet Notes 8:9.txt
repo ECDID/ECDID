@@ -1,0 +1,36 @@
+ACME
+	- Concrete Paving, Roads, Runways
+		⁃ Work out of mobile batch plants
+		⁃ On-site concrete mixing
+	⁃Client wants to track ‘bad batches’ with RFID
+		⁃ Quick lookup of concrete details, show that concrete is A-OK
+		⁃ Client wants to eliminate ‘Batch Tickets’
+		⁃ Has date/time specific to batch
+	⁃Reference Number
+		⁃ RFID Chips hold Reference Number, other data to be stored
+	⁃1 Batch of concrete is 10m^3
+		⁃ Laid 12-18in thick
+	⁃ Chips are to be added in the Batch Plant
+	⁃ Budget is 5-10k for proof of concept
+
+	⁃ Tech needs to be simple (non-tech “hammer and chisel” user)
+	⁃ Chips won’t know where they are at — only hold reference number
+	⁃ Database should hold current tickets as a text file.
+	⁃ All Brand New Technology - no existing system
+	⁃ Unique Backend ID
+	⁃ Provide a historical record
+	⁃ Operable on a Tablet
+	⁃ Infrequent Lookups (less than 1/day)
+	⁃ Try to get rid of the ticket-taker
+	⁃ No historical data upload needed
+	⁃ Information should be stored at least until project acceptance
+	⁃ Tickets stored ‘per project’
+	⁃ 3rd Party people can view their tickets
+	⁃ They should only be able to view their project
+	⁃ 21-22 thousand tickets for a large project
+	⁃ 27-50 trucks per project
+	⁃ 1000/1500 ticket writes a day
+	⁃ Varies by season, project
+	⁃ 96 bits available for storage in the RFID Chip
+
+	⁃	
