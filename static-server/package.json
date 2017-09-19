@@ -1,0 +1,11 @@
+{
+  "name": "static-server",
+  "version": "1.0.0",
+  "description": "node.js research",
+  "main": "index.js",
+  "author": "Mark Old",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mime-types": "^2.1.17"
+  }
+}
