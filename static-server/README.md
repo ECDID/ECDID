@@ -1,7 +1,7 @@
 Research Notes
 ==============
 
-The complete code for this research can be found [here](https://github.com/ECDID/Research/static-server).
+The complete code for this research can be found [here](https://github.com/ECDID/Research/edit/master/static-server).
 
 The content being served is from the [HTML 5 Boilerplate project](https://html5boilerplate.com/).
 
@@ -19,7 +19,7 @@ Promises are the future of asynchronous code in Javascript.  In node.js, the API
 
 A new feature in Javascript, async/await make using promises a breeze.  Instead of using `.then`, `.catch`, and `.finally` in order to make use of promises, `await` allows for simple and easy code that looks synchronous and reads naturally.  Here's the comparison:
 
-javascript```
+```javascript
 fsExists(path).then((exists) => {
     // now we're inside a callback...
 });
