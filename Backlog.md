@@ -5,7 +5,7 @@ The agile method for sprints/backlogs translates very easily over to the GitHub 
 
 ## The 30-second review
 
-At the start of the sprint when the sprint backlog is created, a milestone should be created on the main code respository with the end of the sprint as the due-date.  Aferwards, an issue for every user story should be opened under that milestone.  Labels and assignees can be added as necessary.  Branches and pull requests can be used for code review.
+At the start of the sprint when the sprint backlog is created, a milestone should be created on the main code respository with the end of the sprint as the due-date.  Aferwards, an issue for every user story should be opened under that milestone.  Labels and assignees should be added as necessary.  Branches and pull requests can be used for code review.
 
 ## Issues
 
@@ -25,9 +25,9 @@ Labels can be applied to an issue individually, categorizing them in meaningful 
 
 Labels should also be used to indicate the priority for a particular story/issue.  Labels such as "Low", "Medium", or "High" should be used in this case.
 
-### Assignees
+### Issue status (Assignees)
 
-Project members can be assigned to issues.  This is a purely cosmetic feature, and it indicates who is currently working on the issue at hand.
+Project members should be assigned to issues to indicate a "in progress" story.  When an issue is closed, it indicates a "completed" story.  In this manner, no 2 project members will end up working on the same story at the same time.
 
 ## Milestones
 
