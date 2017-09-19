@@ -21,7 +21,9 @@ When a commit with this message is pushed to GitHub, it will automatically close
 
 ### Labels
 
-Labels can be applied to an issue individually, categorizing them in meaningful ways that extend beyond the sprint.  GitHub adds some default labels to repositories (such as "bug", "question", "invalid", and "enhancement"), but others can be used to indicate specific portions of the project (such as "database", "frontend", or "backend")
+Labels can be applied to an issue individually, categorizing them in meaningful ways that extend beyond the sprint.  GitHub adds some default labels to repositories (such as "bug", "question", "invalid", and "enhancement"), but others can be used to indicate specific portions of the project (such as "database", "frontend", or "backend").
+
+Labels should also be used to indicate the priority for a particular story/issue.  Labels such as "Low", "Medium", or "High" should be used in this case.
 
 ### Assignees
 
@@ -57,18 +59,18 @@ Pull requests are very powerful for code review.  In addition to the review tool
 
 ## Larger user stories
 
-Usually, user stories are fairly bite-sized, but if a user story can be broken down into several bullet points, the following method can be used:
+If a story needs to be broken down into smaller stories, create a new issue for each new story and create a link to each new story in the issue for the old story, like so:
 
 ```markdown
-- [ ] Item 1
-- [ ] Item 2
-- [ ] Item 3
+- [ ] #1234
+- [ ] #2345
+- [ ] #3456
 ```
 
 This bit of formatting, when used in an issue, produces the following output:
-- [ ] Item 1
-- [ ] Item 2
-- [ ] Item 3
+- [ ] #1234
+- [ ] #2345
+- [ ] #3456
 
 ## Projects
 
