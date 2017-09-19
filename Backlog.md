@@ -49,7 +49,7 @@ The documentation for git branches can be found [here](https://git-scm.com/book/
 
 ### Pull Requests
 
-After a branch is ready to be merged, a pull request should be opened instead of directly merging the branch into the master branch.  Once the feature branch has been pushed to the repository, create a new pull request under the pull request tab.  Make sure to select the right branch!  It's often a good idea to restate which issues are being closed in a pull request (by reiterating "Fixes #1234") somewhere near the bottom of the pull request.
+After a branch is ready to be merged, a pull request should be opened instead of directly merging the branch into the master branch.  Once the feature branch has been pushed to the repository, create a new pull request under the pull request tab.  Make sure to select the right branch!  It's often a good idea to restate which issues are being closed in a pull request (by reiterating "Fixes #1234") somewhere near the bottom of the pull request.  Pull requests are a lot like issues in that they are numbered and can be managed similarly (labels, assignees, etc).  A firm understanding of issues will make pull requests seem right at home.
 
 ### Code Review
 
